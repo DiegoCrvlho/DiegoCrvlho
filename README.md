@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando JavaScript
+- 🌱 Studying React.js
 - 📫 Contate-me no email: diego.14crvlho@gmail.com
 
 <div style="display: inline_block"><br>
