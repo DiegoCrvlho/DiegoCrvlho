@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
 
-- 🌱 Studying React.js
-- 📫 Contate-me no email: diego.14crvlho@gmail.com
+# 💫 About Me:
+I'm an Information Systems graduate passionate about building innovative software and exploring new challenges in coding.
 
 ## 💻 Tech Stack:
 <div style="display: inline_block"><br>
