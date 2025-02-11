@@ -12,8 +12,6 @@ I'm an Information Systems graduate passionate about building innovative softwar
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
 </div>
 
-##
-
 ## 🌐 Connect with me:
 <div> 
   <a href="https://instagram.com/diego.crvlho"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
