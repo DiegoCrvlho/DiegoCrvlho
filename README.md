@@ -33,3 +33,9 @@ I'm an Information Systems graduate passionate about building innovative softwar
   <a href="https://www.linkedin.com/in/diego-carvalho-267a59170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div>
+  <a href="https://github.com/DiegoCrvlho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCrvlho&show_icons=true&theme=radical"/>
+  
+</div>
