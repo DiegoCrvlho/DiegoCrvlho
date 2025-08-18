@@ -34,7 +34,7 @@ I'm an Information Systems graduate passionate about building innovative softwar
   
 </div>
 
-##
+## 📊 Stats
 
 <div>
   <a href="https://github.com/DiegoCrvlho">
