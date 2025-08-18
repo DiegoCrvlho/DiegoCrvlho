@@ -39,5 +39,5 @@ I'm an Information Systems graduate passionate about building innovative softwar
 <div>
   <a href="https://github.com/DiegoCrvlho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCrvlho&show_icons=true&theme=radical"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCrvlho&layout=compact"/>
 </div>
