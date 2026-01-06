@@ -2,6 +2,8 @@
 
 I'm an Information Systems graduate passionate about building innovative software and exploring new challenges in coding.
 
+Reach me out here: <a href="mailto:diego.14crvlho@gmail.com" target="__blank">diego.14crvlho@gmail.com</a>
+
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,rails,ruby,ts,react,redux,nodejs,git,cs,py,mysql,bootstrap,html,css,wasm)](https://skillicons.dev)
 
