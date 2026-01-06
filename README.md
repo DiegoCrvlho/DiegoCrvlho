@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Diego Carvalho</h1>
+<h1 align="center">👨🏻‍💻 Diego Carvalho Ferreira</h1>
 
 # 💫 About Me:
 I'm an Information Systems graduate passionate about building innovative software and exploring new challenges in coding.
